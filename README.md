@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I Completed DS in JAVA<br>👯 I’m looking to collaborate on Science & Humanities Project<br>🤝 I’m looking for help with Real Life based projects<br>🌱 I’m currently learning React.js <br>💬 Ask me about ALgorithims<br>⚡ Shoot me an mail on kushagramittal2013@gmail.com or add me on https://www.linkedin.com/in/kushagra-mittal-66836315b/
+🔭 I Completed DS in JAVA<br>👯 I’m looking to collaborate on Science & Humanities Project<br>🤝 I’m looking for help with Real Life based projects<br>🌱 I’m currently learning React.js <br>💬 Ask me about Algorithims<br>⚡ Shoot me an mail on kushagramittal2013@gmail.com or add me on https://www.linkedin.com/in/kushagra-mittal-66836315b/
 
 
 ## 🌐 Socials:
